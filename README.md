@@ -1,4 +1,5 @@
 # github_demo2
 this is my first repository
 <br>
-hello,my name is prraneeth
+<h1>heading</h1>
+hello,my name is <b>praneeth</b>
